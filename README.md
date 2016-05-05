@@ -1,0 +1,5 @@
+# myproject
+**/
+*qwe
+*qwe
+*/
